@@ -1,4 +1,4 @@
-package projetoSmartTv;
+package sintaxeJava.projetoSmartTv;
 
 public class SmartTv {
     boolean ligada = false;

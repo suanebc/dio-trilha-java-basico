@@ -1,4 +1,4 @@
-package minhaClasse;
+package sintaxeJava.minhaClasse;
 
 import java.util.Locale;
 import java.util.Scanner;
