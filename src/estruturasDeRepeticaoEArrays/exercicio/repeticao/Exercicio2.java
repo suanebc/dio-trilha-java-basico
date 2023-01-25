@@ -1,4 +1,4 @@
-package estruturasDeRepeticaoEArrays.exercicio.arrays;
+package estruturasDeRepeticaoEArrays.exercicio.repeticao;
 
 import java.util.Scanner;
 
