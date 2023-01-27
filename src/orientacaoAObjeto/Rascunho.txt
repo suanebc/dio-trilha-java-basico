@@ -1,0 +1,22 @@
+
+***** | HERANÇA | *****
+
+Upcast e Downcast
+Upcast =  subir na hierarquia de classe
+em Java -  A a = new B();
+em C# -  A a = new B();
+em Python - não trabalha com Upcast
+
+
+Downcast = decer na hierarquia de classe
+em Java -  B a = (B)new A();
+em C# -  B a = (B)new A();
+em Python - não trabalha com Upcast
+
+Polimorfism X Sobrescrita
+
+Associação
+Estrutural -  composição e agregação
+Comportamental - dependência
+
+Interface
