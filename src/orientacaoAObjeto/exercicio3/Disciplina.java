@@ -1,4 +1,4 @@
-package orientacaoAObjeto.exercicico3;
+package orientacaoAObjeto.exercicio3;
 
 public class Disciplina {
     Aluno aluno;
