@@ -1,0 +1,9 @@
+
+java.util.List = permite elementos duplicados e ordem de inserção
+
+List =Uma coleção indexada de objetos às vezes chamada de sequência.
+Além dos métodos herdados de Collection, List fornece métodos para manipular elementos baseado na sua posição
+(ou índice) numérica na lista, remover determinado elemento, procurar as ocorrências de um dado elemento
+e percorrer sequencialmente.
+
+ArrayList e Vector
