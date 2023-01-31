@@ -1,4 +1,4 @@
-package frameworkCollections.exemploList;
+package frameworkCollections.list.exemploList;
 
 public class Gato implements Comparable<Gato>{
 

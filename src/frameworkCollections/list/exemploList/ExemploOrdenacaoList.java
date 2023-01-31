@@ -1,4 +1,4 @@
-package frameworkCollections.exemploList;
+package frameworkCollections.list.exemploList;
 
 import java.util.ArrayList;
 import java.util.Collections;
